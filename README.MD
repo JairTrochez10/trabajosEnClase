@@ -10,7 +10,7 @@ PrintF
 		"description": "printf en python"
 	}
 }
-------------------------------------------------------------------
+
 Hola Mundo
 {
 	"Print to console": {
@@ -24,7 +24,7 @@ Hola Mundo
 		"description": "hola mundo"
 	}
 }
-----------------------------------------------------------------
+
 Limpiar Pantalla
 {
 	"Print to console": {
@@ -38,7 +38,7 @@ Limpiar Pantalla
 		"description": "Limpia la pantalla de la consola"
 	}
 }
--------------------------------------------------------------
+
 Variable Decimal
 {
 	"Print to console": {
@@ -51,7 +51,7 @@ Variable Decimal
 		"description": "Ingresar numeros decimales"
 	}
 }
------------------------------------------------------------
+
 Variable Entero
 {
 	"Print to console": {
